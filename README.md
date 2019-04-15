@@ -1,5 +1,13 @@
-# Add Store to Windows 10 Enterprise LTSB  
-For Windows 10 Enterprise 2015 / 2016 LTSB or Windows Enterprise 2015 / 2016 LTSB N  
+# <img src="https://raw.githubusercontent.com/dpteam/AwesomeDPT-WindowsSoft/master/content/logo.png?raw=true" width="400">
+
+💻 Add Windows Store for Windows 10 Enterprise LTSB & LTSC
+
+## Ссылки
+
+- [AwesomeDPT-Windows](https://dpteam.github.io/AwesomeDPT-Windows) - Вернуться в основной список.
+
+# Add Store to Windows 10 Enterprise LTSB & LTSC 
+For Windows 10 Enterprise 2015 / 2016 LTSB or Windows Enterprise 2015 / 2016 LTSB N / 2019 LTSC 
 [Download](https://github.com/lixuy/LTSB-Add-MicrosoftStore/archive/2016.zip)  
 ## To install, run Add-Store.cmd as Administrator  
 If you do not want App Installer / Purchase App / Xbox identity, delete each one appxbundle before running to install. However, if you plan on installing games or any app with in-purchase options, you should include everything.  
