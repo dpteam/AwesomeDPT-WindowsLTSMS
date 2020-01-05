@@ -1,5 +1,4 @@
 @echo off
-for /f "tokens=6 delims=[]. " %%G in ('ver') do if %%G lss 14393 goto :version
 %windir%\system32\reg.exe query "HKU\S-1-5-19" 1>nul 2>nul || goto :uac
 setlocal enableextensions
 if /i "%PROCESSOR_ARCHITECTURE%" equ "AMD64" (set "arch=x64") else (set "arch=x86")
@@ -107,17 +106,6 @@ echo Press any key to Exit
 pause >nul
 exit
 
-:version
-echo.
-echo ============================================================
-echo Error: This pack is for Windows 10 version 1607 and later
-echo ============================================================
-echo.
-echo.
-echo Press any key to Exit
-pause >nul
-exit
-
 :nofiles
 echo.
 echo ============================================================
@@ -132,7 +120,7 @@ exit
 :fin
 echo.
 echo ============================================================
-echo Done
+echo Done, Don't forgot to update store.
 echo ============================================================
 echo.
 echo Press any Key to Exit.
