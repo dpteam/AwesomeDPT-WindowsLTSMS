@@ -20,6 +20,7 @@
 
 Это очистит кеш при необходимости. 
 
+
 Идея: GOD666 [https://forums.mydigitallife.net/threads/add-store-to-windows-10-enterprise-ltsc-ltsb.70741/page-22#post-1419464] 
 
 Автор скрипта: kkkgo 
