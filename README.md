@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-- [AwesomeDPT-Windows](https://dpteam.github.io/AwesomeDPT-Windows) - Вернуться в основной список.
+- [AwesomeDPT](https://dpteam.github.io/AwesomeDPT) - Вернуться в основной список.
 
 ## Чтобы установить, запустите Add-Store.cmd от имени администратора. 
 Если вы не хотите, чтобы установились App Installer / Purchase App / Xbox identity, удалите каждый пакет appxbundle перед запуском установки. Однако, если вы планируете установить игры или какое-либо приложение с опциями покупки, вы должны включить все. 
@@ -19,7 +19,6 @@
 3. Ввести: WSReset.exe 
 
 Это очистит кеш при необходимости. 
-
 
 Идея: GOD666 [https://forums.mydigitallife.net/threads/add-store-to-windows-10-enterprise-ltsc-ltsb.70741/page-22#post-1419464] 
 
